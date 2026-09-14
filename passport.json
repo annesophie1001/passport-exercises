@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "curriculum_version": "2.1.2",
+  "github_user": "annesophie1001",
+  "source_repository": "soheylm-passport-sandbox/passport-exercises",
+  "fork_repository": "annesophie1001/passport-exercises",
+  "assessment_branch": "onboarding/annesophie1001",
+  "platform": "macos",
+  "responsibilities": [
+    "ai_agents",
+    "data_steward",
+    "git",
+    "python"
+  ],
+  "missions": [
+    "core-orientation",
+    "core-accounts-secrets",
+    "core-systems-data",
+    "core-incidents-ai-responsibility",
+    "git-tools-auth",
+    "git-manual-pr",
+    "python-environment",
+    "python-reproducible-change",
+    "data-placement",
+    "data-collaboration",
+    "data-handover",
+    "ai-tool-configuration",
+    "ai-agent-baseline"
+  ],
+  "setup_complete": true
+}
